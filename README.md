@@ -1,8 +1,6 @@
 # Modern-Calculator
 A sleek and modern glass-style calculator with a responsive design, smooth animations, and essential arithmetic operations. Built with HTML, CSS, and JavaScript, it features a clear display, intuitive button layout, and real-time calculation updates. Perfect for quick and efficient calculations! 🚀
 
-Here’s a concise and well-structured README description for your GitHub repository:  
-
 ---
 
 # Glass Calculator  
