@@ -3,7 +3,6 @@ A sleek and modern glass-style calculator with a responsive design, smooth anima
 
 ---
 
-# Glass Calculator  
 
 A modern and stylish glass-effect calculator built with **HTML, CSS, and JavaScript**. Featuring a sleek UI with smooth animations, responsive design, and essential arithmetic operations.  
 
